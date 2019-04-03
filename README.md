@@ -1,2 +1,2 @@
 # Crime-Analysis
-A case-by-case analysis of crime in various states in the U.S., and its correlation with wealth.
+A group project.
