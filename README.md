@@ -1,2 +1,2 @@
 # Crime-Analysis
-A group project.
+Locations include Maryland, Hawaii, and others.
